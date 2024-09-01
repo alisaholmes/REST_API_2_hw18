@@ -1,7 +1,9 @@
 # Byte-compiled / optimized / DLL files
-
-.idea
+allure-report
+allure-results
 .venv
+.idea
+
 .env
 __pycache__/
 *.py[cod]
